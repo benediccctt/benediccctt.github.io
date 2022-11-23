@@ -19,3 +19,9 @@ Luka Dončić
 
 ![alt text](https://www.theloadout.com/wp-content/sites/theloadout/2022/10/valorant-agent-tier-list.jpg)
 Valorant (2020)
+
+yung lang gaizz
+
+![alt text](https://i.pinimg.com/736x/75/24/35/75243537a1eb4dc9430c17c55470eb53--silly-faces-happy-faces.jpg)
+
+booger
