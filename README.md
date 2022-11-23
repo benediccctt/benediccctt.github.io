@@ -1,8 +1,6 @@
 # *welcome to benediccctt.github.io*!
-### My Favorite Hobbies:
-# **1. Watching K-Dramas**
-
-**My Favorites:**
+# **My Favorite Hobbies:**
+## **1. Watching K-Dramas**
 
 ## 20th Century Girl(2022)
 ![alt text](https://occ-0-3934-990.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABTdyShVBFSU5zX5-PTVNm3Zw_Lt803ZNvaVv6i3noQ0F8E1aWvp-CzmcwvXmQelPvGybJu-UDKCCfTe62Q1kc06iSVe3zaLM--De.jpg?r=972)
@@ -11,8 +9,6 @@
 ![alt text](https://flxt.tmsimg.com/assets/p22283467_b_h8_ac.jpg)
 
 # **2. Watching Anime**
-
-**My Favorites:**
 
 ## One Piece (1997)
 ![alt text](https://as01.epimg.net/meristation_en/imagenes/2022/02/17/news/1645059859_923391_1645060061_noticia_normal.jpg)
@@ -31,17 +27,17 @@
 
 # **3. Playing Basketball**
 
-**My Favorite Basketball Players:**
+# **My Favorite Basketball Players:**
 
-## Luka Dončić
+## **Luka Dončić**
 ![alt text](https://a2.espncdn.com/combiner/i?img=/photo/2021/0423/r844375_1296x729_16-9.jpg)
  
-## Stephen Curry 
+## **Stephen Curry**
 ![alt text](https://cdn.nba.com/manage/2021/08/GettyImages-1232154862-scaled-e1628017591660.jpg)
 
 # **4. Playing online games**
 
-## Valorant (2020)
+## **Valorant (2020)**
 ![alt text](https://www.theloadout.com/wp-content/sites/theloadout/2022/10/valorant-agent-tier-list.jpg)
 
 
