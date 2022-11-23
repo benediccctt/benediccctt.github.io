@@ -1,5 +1,5 @@
 # *welcome to benediccctt.github.io*!
-# **My Favorite Hobbies:**
+## **My Favorite Hobbies:**
 ## **1. Watching K-Dramas**
 
 ## 20th Century Girl(2022)
@@ -8,7 +8,7 @@
 ## Extraordinary Attorney Woo(2022)
 ![alt text](https://flxt.tmsimg.com/assets/p22283467_b_h8_ac.jpg)
 
-# **2. Watching Anime**
+## **2. Watching Anime**
 
 ## One Piece (1997)
 ![alt text](https://as01.epimg.net/meristation_en/imagenes/2022/02/17/news/1645059859_923391_1645060061_noticia_normal.jpg)
@@ -25,9 +25,9 @@
 ## Jujutsu Kaisen(2020)
 ![alt text](https://preview.redd.it/wemj9mmsmci81.jpg?auto=webp&s=dc616c1d0075373ccbe017b1c2ee9f34e4a2bf12)
 
-# **3. Playing Basketball**
+## **3. Playing Basketball**
 
-# **My Favorite Basketball Players:**
+## **My Favorite Basketball Players:**
 
 ## **Luka Dončić**
 ![alt text](https://a2.espncdn.com/combiner/i?img=/photo/2021/0423/r844375_1296x729_16-9.jpg)
