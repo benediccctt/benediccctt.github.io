@@ -29,15 +29,15 @@
 
 ## **My Favorite Basketball Players:**
 
-## **Luka Dončić**
+## Luka Dončić
 ![alt text](https://a2.espncdn.com/combiner/i?img=/photo/2021/0423/r844375_1296x729_16-9.jpg)
  
-## **Stephen Curry**
+## Stephen Curry
 ![alt text](https://cdn.nba.com/manage/2021/08/GettyImages-1232154862-scaled-e1628017591660.jpg)
 
 # **4. Playing online games**
 
-## **Valorant (2020)**
+## Valorant (2020)
 ![alt text](https://www.theloadout.com/wp-content/sites/theloadout/2022/10/valorant-agent-tier-list.jpg)
 
 
